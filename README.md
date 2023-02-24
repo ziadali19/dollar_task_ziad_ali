@@ -4,6 +4,6 @@ Dollar Task
 
 ## Task review video
 
-Video link >> https://drive.google.com/file/d/1yi0CzR5SPdV0Rnb6_xjuIh-R_BPY72fF/view?usp=drivesdk
+Video link >> https://drive.google.com/file/d/1YyNKYalmy0rtrL6OVUIZIZv5YIkD2DuE/view?usp=sharing
 
 
