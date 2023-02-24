@@ -36,7 +36,8 @@ class UploadScreen extends StatelessWidget {
                   ),
                   BlocConsumer<UploadCubit, UploadState>(
                     listener: (context, state) {
-                      if (state is UploadSuccess) {
+                      if (state is UploadSuccess &&
+                          UploadCubit.get(context).image != null) {
                         UploadCubit.get(context).loader(context);
                       }
                     },
