@@ -1,9 +1,9 @@
-# dollar_task_ziad_ali
+# D-Task Ziad Ali
 
-A new Flutter project.
+Dollar Task 
 
 ## Task review video
 
-This project is a starting point for a Flutter application.
+Video link >> https://drive.google.com/file/d/1yi0CzR5SPdV0Rnb6_xjuIh-R_BPY72fF/view?usp=drivesdk
 
 
